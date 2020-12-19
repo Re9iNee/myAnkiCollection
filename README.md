@@ -22,3 +22,8 @@ https://www.ankiapp.com/
 ### MySQL Database
 
 > This Deck might be not helpful enough cause I haven't update it since my last SQL Class at University, but I hope it will help someone.
+
+
+### Linux
+
+> Linux common Commands To use in Terminal. Good for beginners and intermediate levels.
